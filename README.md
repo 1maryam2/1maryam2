@@ -1,6 +1,6 @@
-# Hey, I'm Maryam | Привет, я Марьям
+# Hey, I'm 𝑴𝒂𝒓𝒚𝒂𝒎
 
-[![Telegram](https://img.shields.io/badge/Telegram-@maryyam_12-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://telegram.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-@maryyam_12-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://t.me/maryyam_12)
 [![GitHub](https://img.shields.io/badge/GitHub-@1maryam2-181717?style=flat-square&logo=github)](https://github.com/1maryam2)  
 
 **Web Developer** who's really into Data Science
